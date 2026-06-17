@@ -42,7 +42,7 @@ Este é um dos projetos desenvolvidos durante minha transição de carreira para
 
 ## 📷 Dashboard
 
-![Dashboard](imagens/dashboard.png)
+
 
 ---
 
